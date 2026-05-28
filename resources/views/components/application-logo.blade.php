@@ -1,0 +1,1 @@
+<span {{ $attributes }} style="font-family:'DM Serif Display',serif;font-size:28px;letter-spacing:-0.5px;font-weight:400;background:linear-gradient(135deg,#f9ce34,#ee2a7b,#6228d7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">gram</span>
